@@ -1,0 +1,7 @@
+LINK DEPLOYMENT:
+
+https://huggingface.co/spaces/saepulhilal/milestone2
+
+LINK DATASET :
+
+https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
